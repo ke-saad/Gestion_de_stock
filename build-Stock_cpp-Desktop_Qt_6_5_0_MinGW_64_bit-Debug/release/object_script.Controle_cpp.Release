@@ -1,0 +1,11 @@
+release/admin.o
+release/main.o
+release/mainwindow.o
+release/modifier.o
+release/save.o
+release/supprimer.o
+release/moc_admin.o
+release/moc_mainwindow.o
+release/moc_modifier.o
+release/moc_save.o
+release/moc_supprimer.o
